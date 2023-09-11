@@ -120,7 +120,7 @@ map.addControl(layerSwitcher);
     var searchLayer = new SearchLayer({
       layer: lyr_LokasiAset_8,
       colName: 'KETERANGAN',
-      zoom: 10,
+      zoom: 15,
       collapsed: true,
       map: map
     });
